@@ -1,0 +1,16 @@
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.exe
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.deps.json
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.runtimeconfig.json
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.runtimeconfig.dev.json
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.dll
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\bin\Debug\netcoreapp3.1\DemoWinForm.pdb
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.csproj.AssemblyReference.cache
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.Form1.resources
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.csproj.GenerateResource.cache
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.AssemblyInfoInputs.cache
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.AssemblyInfo.cs
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.csproj.CoreCompileInputs.cache
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.dll
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.pdb
+C:\Users\asus\source\repos\DemoWinForm\DemoWinForm\obj\Debug\netcoreapp3.1\DemoWinForm.genruntimeconfig.cache
